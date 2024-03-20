@@ -1,2 +1,2 @@
-# VecteurGR01
-Exercices Structures de données H2024 Groupe 1
+# ListeGR01
+Exercices structures de données liste H2024 Groupe 1
